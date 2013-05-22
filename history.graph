@@ -1,0 +1,49 @@
+graph HistoryIntent {
+  nodeType {
+
+  };
+
+  nodes {
+    wipe_table;
+    drink;
+    eat;
+    wipe_mouth;
+    set_table;
+    clear_table;
+
+    get_food;
+    get_empty_plate;
+    get_napkins;
+    get_cup;
+    pour;
+    goto_fridge;
+  };
+
+  edges {
+    set_table -> eat;
+    set_table -> drink;
+    eat -> wipe_mouth;
+    drink -> clear_table;
+    clear_table -> wipe_table;
+
+    get_napkins -> set_table;
+    get_cup -> set_table;
+    get_empty_plate -> set_table;
+
+    goto_fridge -> eat;
+    get_food -> eat;
+    get_empty_plate -> eat;
+
+    get_napkins -> wipe_mouth;
+
+    goto_fridge -> drink;
+    pour -> drink;
+    get_cup -> drink;
+
+    get_cup -> clear_table;
+    get_empty_plate -> clear_table;
+    
+    get_napkins -> wipe_table;
+  };
+
+}

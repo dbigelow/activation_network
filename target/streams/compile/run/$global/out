@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mRunning main.scala.HttpServer basicAction.graph[0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/ActorDiffusionNet_unstable/target/scala-2.9.1/classes[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.twitter/finagle-core/jars/finagle-core-1.9.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.twitter/util-hashing/jars/util-hashing-1.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.twitter/util-core/jars/util-core-1.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.twitter/util-collection/jars/util-collection-1.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.google.guava/guava/jars/guava-r09.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/org.jboss.netty/netty/bundles/netty-3.2.5.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.twitter/finagle-http/jars/finagle-http-1.9.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.twitter/util-logging/jars/util-logging-1.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/daniel/.ivy2/cache/com.typesafe/config/bundles/config-0.3.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m

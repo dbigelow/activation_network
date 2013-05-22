@@ -1,0 +1,17 @@
+graph TestGraph {
+  nodeType {
+
+  };
+
+  nodes {
+    eat(0.63);
+    drink;
+    beMerry;
+  };
+
+  edges {
+    eat (0.52) -> drink;
+    drink -> beMerry;
+    beMerry -> eat;
+  };
+}

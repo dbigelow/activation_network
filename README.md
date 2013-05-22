@@ -1,0 +1,1 @@
+ActorDiffusionNet is an actor-based implementation of a diffusion network.

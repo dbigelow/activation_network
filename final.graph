@@ -1,0 +1,13 @@
+graph Final {
+  nodes {
+    aibo;
+    book;
+    bottle;
+    cup;
+    laptop;
+  };
+
+  edges {
+
+  };
+}

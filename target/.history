@@ -1,0 +1,20 @@
+build
+compile
+run test.graph
+exit
+run test.graph
+run
+exit
+run test.graph
+run basicAction.graph
+run test.graph
+q
+exit
+run test.graph
+exit
+run test.graph
+run basicAction.graph
+run test.graph
+run basicAction.graph
+run test.graph
+run basicAction.graph

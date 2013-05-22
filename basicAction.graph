@@ -1,0 +1,11 @@
+graph TestGraph {
+  nodeType {
+
+  };
+
+  nodes {
+  };
+
+  edges {
+  };
+}
